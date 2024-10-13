@@ -3,3 +3,4 @@
 # Philipp Brauner hat die Hausaufgabe gemacht. abc
 # Monique Beckers hat die Hausaufgabe gemacht.
 # Noah Schmitt hat die Hausaufgabe gemacht.
+# Noah Schmitt hat die Hausaufgabe nochmal ohne Video gemacht 
