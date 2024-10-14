@@ -6,4 +6,4 @@
 # Noah Schmitt hat die Hausaufgabe gemacht.
 # Noah Schmitt hat die Hausaufgabe nochmal ohne Video gemacht 
 # Yordan Kirachen hat die Hausaufgabe gemacht.
-#Emilia Momot hat die Hausaufgabe gemacht.
+# Emilia Momot hat die Hausaufgabe gemacht.
