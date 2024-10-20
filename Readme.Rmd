@@ -1,0 +1,14 @@
+---
+title: "Untitled"
+output: md_document
+date: "2024-10-20"
+---
+
+# Teammidlgieder
+
+# Forschungsfrage
+
+# Faktorenraum
+```{r}
+3+4
+```
