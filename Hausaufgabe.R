@@ -10,3 +10,4 @@
 # Kristina Asch hat die Hausaufgabe gemacht.
 # Pia Hens hat die Hausaufgabe gemacht.
 # Marie Eigelshoven hat die Hausaufgabe gemacht. 
+# Elcin Konar hat die Hausaufgabe gemacht.
